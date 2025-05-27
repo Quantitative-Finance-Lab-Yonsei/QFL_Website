@@ -8,7 +8,6 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
-  Area,
   ReferenceArea,
 } from 'recharts';
 import axios from 'axios';

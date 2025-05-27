@@ -7,7 +7,6 @@ import {
   Button,
   Container,
 } from '@mui/material';
-import ShowChartIcon from '@mui/icons-material/ShowChart';
 
 const Navbar = () => {
   return (
